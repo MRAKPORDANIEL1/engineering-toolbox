@@ -1,0 +1,9 @@
+git clone https://github.com/MRAKPORDANIEL1/engineering-toolbox
+cd engineering-toolbox
+
+# Copy the main.py and requirements.txt I will send you into this folder
+
+git add .
+git commit -m "Engineering toolbox app - initial commit"
+git branch -M main
+git push -u origin main
